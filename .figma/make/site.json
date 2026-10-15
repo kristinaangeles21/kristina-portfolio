@@ -1,0 +1,12 @@
+{
+  "title": "Kristina Angeles | Web Authoring & Design",
+  "language": "en",
+  "description": "Showcase your web authoring skills with a modern, minimalist portfolio website designed for students, featuring sections for projects, skills, and contact.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
